@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 501758b52920e9c47bdc05979ef21a2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vert_vis: {fileID: 2535408085506433750, guid: 6cd84385fa7cf87448c7e6823fcb0ec5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

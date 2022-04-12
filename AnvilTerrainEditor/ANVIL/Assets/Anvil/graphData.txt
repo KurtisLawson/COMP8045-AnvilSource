@@ -1,0 +1,1 @@
+{"worldPosOffset":{"x":124.0,"y":267.0},"nodes":[{"index":0,"pos":{"x":0.0,"y":0.0},"length":100.0,"width":100.0,"elevation":100.0}],"connections":[]}
