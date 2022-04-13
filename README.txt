@@ -8,6 +8,9 @@ Major Python Library Dependencies:
 	Matlabplot
 	Numpy
 
+Unity Source Code may be found within AnvilTerrainEditor/ANVIL/Assets
+Python Source Code may be found within AnvilTerrainEditor/Python
+
 USER MANUAL
 
 CRUCIAL - The AnvilTerrainGenerator folder must be placed in the C:/ drives root.
